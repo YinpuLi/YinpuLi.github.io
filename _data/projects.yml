@@ -12,5 +12,5 @@
 - name: Uncertainty Quantification
   gh_user: YinpuLi
   repo: LP_ePDF
-  img: images/shiny2.png
+  img: images/Pyramid_80.png
   desc: Rpackage and web application for uncertainty quantification of tail probabilities and densities under the framework of assumption lattice and uncertainty pyramid.
