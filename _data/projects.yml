@@ -6,6 +6,6 @@
 - name: Sparsity Boosting
   gh_user: YinpuLi
   repo: SparseBoosting
-  img: https://github.com/YinpuLi/SparseBoosting/blob/master/updateSigma.png
+  img: /images/tree2.jpg
   desc: A new gradient boosting algorithm adapt to sparsity structure.
 
