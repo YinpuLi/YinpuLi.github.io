@@ -1,0 +1,14 @@
+---
+layout: default
+title: Publications
+---
+
+<div class="publications">
+
+  {% assign publications = (site.publications | sort: 'date') | reverse %}
+
+  {% for publication in publications %}
+    {% include publication.html publication=publication %}
+  {% endfor %}
+
+</div>
