@@ -6,6 +6,6 @@
 - name: Sparsity Boosting
   gh_user: YinpuLi
   repo: SparseBoosting
-  img: /images/tree2.jpg
+  img: https://www.google.com/search?q=decision+tree+boosting&tbm=isch&ved=2ahUKEwjEn4K5wrnrAhXJhVMKHQG5DD4Q2-cCegQIABAA&oq=decision+tree+boos&gs_lcp=CgNpbWcQARgAMgIIADIGCAAQCBAeMgYIABAIEB4yBAgAEBgyBAgAEBgyBAgAEBg6BAgjECc6BAgAEEM6BQgAELEDUMCNLFjGoCxgx6osaABwAHgAgAHwAYgBvASSAQU0LjAuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=mKxGX8TzOMmLzgKB8rLwAw&bih=837&biw=1707#imgrc=s6-B9AL-KCAZhM
   desc: A new gradient boosting algorithm adapt to sparsity structure.
 
