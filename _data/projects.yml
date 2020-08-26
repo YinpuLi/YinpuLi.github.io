@@ -14,3 +14,4 @@
   repo: LP_ePDF
   img: images/KernelEst_80_90.png
   desc: Rpackage and web application for uncertainty quantification of tail probabilities and densities under the framework of assumption lattice and uncertainty pyramid.
+
