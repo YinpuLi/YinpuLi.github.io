@@ -6,6 +6,6 @@
 - name: Sparsity Boosting
   gh_user: YinpuLi
   repo: SparseBoosting
-  img: ![](images/tree2.png)
+  img: images/tree2.png
   desc: A new gradient boosting algorithm adapt to sparsity structure.
 
