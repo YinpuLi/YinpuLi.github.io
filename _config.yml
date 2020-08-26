@@ -1,9 +1,9 @@
 # Site settings
 title: Yinpu Li
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://yinpuli.github.io/'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/yinpuli.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
@@ -33,4 +33,5 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
+exclude: ['README.md']
+#exclude: ['README.md', 'screenshot-overview.png']
