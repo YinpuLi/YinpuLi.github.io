@@ -5,8 +5,11 @@
 
 - name: CV
   img: images/Einstein_tongue.jpg
+  link: [I'm an inline-style link](_data/CV_Resume/YinpuLiCV.pdf)
   desc: This is my CV for academia.
+  
 
 - name: Resume
   img: images/steve2.jpg
+  link: [I'm an inline-style link](_data/CV_Resume/YinpuLiCV_2page.pdf)
   desc: This is my resume for industry.
