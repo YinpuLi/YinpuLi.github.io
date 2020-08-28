@@ -27,26 +27,7 @@ robots: noindex
           </div>
         </div>
       </li>
-    {% endfor %}
-        
-        
-    {% for item in site.data.cv %}
-
-      <li class="timeline-inverted">
-        <div class="timeline-image">
-          <img class="img-me" src="{{ item.img | prepend: site.baseurl }}" alt="">
-        </div>
-        <div class="timeline-panel">
-          <div class="timeline-heading">
-             {{ item.name | markdownify }}
-          </div>          
-          <div class="timeline-body">
-            {{ item.desc | markdownify }}
-          </div>
-        </div>
-      </li>
-    {% endfor %}
-        
+    {% endfor %}     
         
     <!--
     <li class="timeline-inverted">
