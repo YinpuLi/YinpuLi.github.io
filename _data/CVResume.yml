@@ -3,13 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 
-- name: CV
+- name: [CV](_data/CV_Resume/YinpuLiCV.pdf)
   img: images/Einstein_tongue.jpg
-  link: [I'm an inline-style link](_data/CV_Resume/YinpuLiCV.pdf)
   desc: This is my CV for academia.
   
 
-- name: Resume
+- name: [Resume](_data/CV_Resume/YinpuLiCV_2page.pdf)
   img: images/steve2.jpg
-  link: [I'm an inline-style link](_data/CV_Resume/YinpuLiCV_2page.pdf)
   desc: This is my resume for industry.
