@@ -1,8 +1,8 @@
 
 - name: CV
   img: images/Einstein_tongue.jpg
-  desc: This is my CV for academia
+  desc: [This is my CV for academia](https://github.com/YinpuLi/YLBlogs/blob/gh-pages/docs/YinpuLiCV.pdf)
 
 - name: Resume
   img: images/steve2.jpg
-  desc: This is my resume for industry
+  desc: [This is my resume for industry](https://github.com/YinpuLi/YLBlogs/blob/gh-pages/docs/YinpuLiCV.pdf)
